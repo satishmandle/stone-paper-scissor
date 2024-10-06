@@ -152,5 +152,5 @@
 
     .scissor {
         grid-column: 1 / 3;
-        grid-ro
+        grid-roW:2/3;
 
